@@ -9,7 +9,7 @@ function App() {
   useEffect(() => {
     const scene = new THREE.Scene();
     scene.background = new THREE.Color(0xdddddd)
-    const camera = new THREE.PerspectiveCamera(50, window.innerWidth / window.innerHeight, 1, 5000)
+    const camera = new THREE.PerspectiveCamera(10, window.innerWidth / window.innerHeight, 1, 500)
     camera.position.set(0,25,25)
     const canvas = document.getElementById('threeJs')
     const renderer = new THREE.WebGL1Renderer({canvas, antialias: true})
