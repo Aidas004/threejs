@@ -1,0 +1,11 @@
+Model Information:
+* title:	Dodge B-Series Pickup 1953 Custom Car
+* source:	https://sketchfab.com/3d-models/dodge-b-series-pickup-1953-custom-car-1a533ef1e90a467ebe611b9b72df7f45
+* author:	Alex.Ka. (https://sketchfab.com/Alex.Ka)
+
+Model License:
+* license type:	CC-BY-NC-ND-4.0 (http://creativecommons.org/licenses/by-nc-nd/4.0/)
+* requirements:	Author must be credited. No commercial use. Modified versions can not be distributed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Dodge B-Series Pickup 1953 Custom Car" (https://sketchfab.com/3d-models/dodge-b-series-pickup-1953-custom-car-1a533ef1e90a467ebe611b9b72df7f45) by Alex.Ka. (https://sketchfab.com/Alex.Ka) licensed under CC-BY-NC-ND-4.0 (http://creativecommons.org/licenses/by-nc-nd/4.0/)
